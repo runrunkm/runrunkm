@@ -1,6 +1,6 @@
 <div align="center">
 
-# ZETA Zhou · 周润
+# ZETA Zhou · 
 
 <a href="https://github.com/runrunkm">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=AEB9C7&center=true&vCenter=true&width=720&lines=UE+AI+Agent+Engineer+%26+Founder;Teaching+AI+to+build+games+inside+Unreal+Engine;C%2B%2B+%C2%B7+Python+%C2%B7+Blueprint+%C2%B7+Lua+%C2%B7+LLM+Agents" alt="roles" />
